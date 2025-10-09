@@ -1,0 +1,1 @@
+[🏠 Home](README.md) |  [📝 Blog](blogs\post1.md) | [👨‍💻 About Me](profile/about.md) | [📧 Contact](profile/contact.md)
