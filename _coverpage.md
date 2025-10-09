@@ -5,7 +5,7 @@
 # 🚀 Code & Clicks  
 > Build. Test. Automate. Repeat.
 
-[Get Started](#README)
+[Get Started](README.md)
 
 <!-- Animated Ad Section -->
 <div style="margin-top: 30px; font-size: 18px; animation: pulse 2s infinite;">
