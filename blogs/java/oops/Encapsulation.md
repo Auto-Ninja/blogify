@@ -3,6 +3,7 @@ Encapsulation means:
 Wrapping data (fields) and methods (functions) that operate on that data into a single unit—usually a class—and restricting direct access to some of the object's components.
 
 🧩 In Practice (Java Example)
+```java
 public class Product {
     private int id;           // Private field
     private String name;
@@ -15,7 +16,7 @@ public class Product {
         this.id = id;
     }
 }
-
+```
 - id is private: it can’t be accessed directly from outside the class.
 - getId() and setId() are public: they provide controlled access.
 

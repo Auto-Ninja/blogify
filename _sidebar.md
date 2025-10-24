@@ -1,27 +1,30 @@
-* [🏠 Home](README.md)
-* [👨‍💻 About Me](about.md)
-* [📝 Blog](blog.md)
+* Getting Started
+  * [Home](/)  
 
-## 📅 Posts by Date
-* [2025](blog/2025.md)
-  * [October](blog/2025/october.md)
-  * [September](blog/2025/september.md)
-* [2024](blog/2024.md)
-  * [December](blog/2024/december.md)
+* Java Tutorials
+  * Basic
+    * [Introduction to Java](/blogs/java/basic/Introduction.md)
+    * [Variables and Data Types](/blogs/java/basic/VariablesAndDataTypes.md)
+    * [Operators](/blogs/java/basic/Operators.md)
+    * [Control Flow](/blogs/java/basic/ControlFlow.md)
+    * [Arrays](/blogs/java/basic/Arrays.md)
+    * [Methods](/blogs/java/basic/Methods.md)
+    * [Strings](/blogs/java/basic/Strings.md)
+    * [Exception Handling](/blogs/java/basic/ExceptionHandling.md)
+    * [Collections](/blogs/java/basic/Collections.md)
+  * Object-Oriented Programming
+    * [Encapsulation](/blogs/java/oops/Encapsulation.md)
+    * [Classes and Objects](/blogs/java/oops/ClassesAndObjects.md)
+    * [Inheritance](/blogs/java/oops/Inheritance.md)
+    * [Polymorphism](/blogs/java/oops/Polymorphism.md)
+    * [Abstraction](/blogs/java/oops/Abstraction.md)
+  * SOLID Principles
+    * [Single Responsibility](/blogs/java/solid/SingleResponsibility.md)
+    * [Open-Closed](/blogs/java/solid/OpenClosed.md)
+    * [Liskov Substitution](/blogs/java/solid/LiskovSubstitution.md)
+    * [Interface Segregation](/blogs/java/solid/InterfaceSegregation.md)
+    * [Dependency Inversion](/blogs/java/solid/DependencyInversion.md)
 
-## 🏷️ Tags
-* [JavaScript](tags/javascript.md)
-* [React](tags/react.md)
-* [Career](tags/career.md)
-* [DevOps](tags/devops.md)
-
-## 🔍 Filters
-* [Beginner Friendly](filters/beginner.md)
-* [Advanced Topics](filters/advanced.md)
-* [Tutorials](filters/tutorials.md)
-* [Opinion Pieces](filters/opinion.md)
-
-## 📈 Trends
-* [Popular Posts](trends/popular.md)
-* [Most Commented](trends/comments.md)
-* [Most Shared](trends/shared.md)
+* Resources
+  * [GitHub Repository](https://github.com/yourusername/blogify)
+  * [Documentation](https://docsify.js.org/#/)
