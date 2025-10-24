@@ -18,6 +18,7 @@
     * [Inheritance](/blogs/java/oops/Inheritance.md)
     * [Polymorphism](/blogs/java/oops/Polymorphism.md)
     * [Abstraction](/blogs/java/oops/Abstraction.md)
+    * [Cohesion And Coupling](/blogs/java/oops/CohesionAndCoupling.md)    
   * SOLID Principles
     * [Single Responsibility](/blogs/java/solid/SingleResponsibility.md)
     * [Open-Closed](/blogs/java/solid/OpenClosed.md)
