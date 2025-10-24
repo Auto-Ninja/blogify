@@ -12,7 +12,7 @@
     * [Strings](/blogs/java/basic/Strings.md)
     * [Exception Handling](/blogs/java/basic/ExceptionHandling.md)
     * [Collections](/blogs/java/basic/Collections.md)
-  * Object-Oriented Programming
+  * [Object-Oriented Programming](/blogs/java/oops/_coverpage.md)  
     * [Encapsulation](/blogs/java/oops/Encapsulation.md)
     * [Classes and Objects](/blogs/java/oops/ClassesAndObjects.md)
     * [Inheritance](/blogs/java/oops/Inheritance.md)
@@ -25,6 +25,3 @@
     * [Interface Segregation](/blogs/java/solid/InterfaceSegregation.md)
     * [Dependency Inversion](/blogs/java/solid/DependencyInversion.md)
 
-* Resources
-  * [GitHub Repository](https://github.com/yourusername/blogify)
-  * [Documentation](https://docsify.js.org/#/)
