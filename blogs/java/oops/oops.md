@@ -6,11 +6,15 @@
 
 ---
 
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+
+<div style="flex: 1; min-width: 300px;">
+
 ## 🧠 What Is OOP?
 
 **Object-Oriented Programming (OOP)** is a programming paradigm centered around the concept of **objects**, which are instances of **classes**. These objects encapsulate both:
 
-- **Data** (attributes)
+- **Data** (attributes)  
 - **Behavior** (methods)
 
 This promotes **modularity**, **reusability**, and **scalability** in software design.
@@ -33,7 +37,9 @@ This promotes **modularity**, **reusability**, and **scalability** in software d
 
 > These principles help build systems that are easier to **maintain**, **extend**, and **debug**.
 
----
+</div>
+
+<div style="flex: 1; min-width: 300px;">
 
 ## 📜 A Brief History of OOP
 
@@ -45,29 +51,4 @@ This promotes **modularity**, **reusability**, and **scalability** in software d
 
 ### 🧱 1980s – C++ and Industrial Adoption  
 **C++**, developed by Bjarne Stroustrup, extended C with OOP features and became widely used in **systems and application programming**.
-
-### 🌐 1990s – Java and the Web Era  
-**Java**, introduced by Sun Microsystems, emphasized **portability** and **security** with its "write once, run anywhere" philosophy.
-
-### 🚀 2000s–Present – Modern OOP  
-Languages like **Python**, **C#**, and **Ruby** adopted OOP principles while supporting other paradigms. OOP remains foundational in modern software architecture.
-
----
-
-## 🏗️ OOP in Software Architecture
-
-OOP provides a robust framework for designing scalable and maintainable systems:
-
-- **Domain Modeling**  
-  Classes represent real-world entities, making systems intuitive.
-
-- **Design Patterns**  
-  Architectural patterns like **MVC**, **Factory**, and **Singleton** are rooted in OOP.
-
-- **Maintainability**  
-  Encapsulation and modularity reduce coupling and improve code clarity.
-
----
-
-> 📘 *Explore the power of OOP to build clean, efficient, and scalable software systems.*
 
