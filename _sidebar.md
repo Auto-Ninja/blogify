@@ -19,10 +19,11 @@
     * [Polymorphism](/blogs/java/oops/Polymorphism.md)
     * [Abstraction](/blogs/java/oops/Abstraction.md)
     * [Cohesion And Coupling](/blogs/java/oops/CohesionAndCoupling.md)    
-  * SOLID Principles
-    * [Single Responsibility](/blogs/java/solid/SingleResponsibility.md)
-    * [Open-Closed](/blogs/java/solid/OpenClosed.md)
-    * [Liskov Substitution](/blogs/java/solid/LiskovSubstitution.md)
-    * [Interface Segregation](/blogs/java/solid/InterfaceSegregation.md)
-    * [Dependency Inversion](/blogs/java/solid/DependencyInversion.md)
+  * [SOLID Principles](/blogs/java/oops/solid.md) 
+    * [Single Responsibility](/blogs/java/oops/SingleResponsibility.md)
+    * [Open-Closed](/blogs/java/oops/OpenClosed.md)
+    * [Liskov Substitution](/blogs/java/oops/LiskovSubstitution.md)
+    * [Interface Segregation](/blogs/java/oops/InterfaceSegregation.md)
+    * [Dependency Inversion](/blogs/java/oops/DependencyInversion.md)
 
+   
