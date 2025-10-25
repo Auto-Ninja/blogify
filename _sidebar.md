@@ -15,6 +15,7 @@
   * [Object-Oriented Programming](/blogs/java/oops/oops.md)  
     * [Encapsulation](/blogs/java/oops/Encapsulation.md)
     * [Classes and Objects](/blogs/java/oops/ClassesAndObjects.md)
+    * [Constructor](/blogs/java/oops/Constructors.md)
     * [Inheritance](/blogs/java/oops/Inheritance.md)
     * [Polymorphism](/blogs/java/oops/Polymorphism.md)
     * [Abstraction](/blogs/java/oops/Abstraction.md)

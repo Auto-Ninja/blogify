@@ -53,7 +53,7 @@ service.notifyUser(new SMSSender(), "Your package has shipped!");
 - EmailSender and SMSSender can substitute NotificationChannel without breaking anything.
 - This is LSP in action.
 
-## ❌ LSP Violation Example
+### ❌ LSP Violation Example
 Let’s say we add a new DatabaseLogger class that implements NotificationChannel, but doesn’t actually send notifications:
 
 ```java
@@ -75,14 +75,14 @@ service.notifyUser(new DatabaseLogger(), "Promo launched!");
  ├── [SMSSender] ✅
  └── [DatabaseLogger] ❌ (breaks LSP)
  ```
-## 📌 LSP Checklist
+### 📌 LSP Checklist
 | ✅ Good | ❌ Bad |
 | --- | --- |
 | Subclass honors the contract of the base class | Subclass throws unexpected exceptions |
 | Subclass preserves expected behavior | Subclass changes method meaning |
 | Subclass can be used interchangeably | Subclass breaks client code |
 
-## 🧠 Key Takeaways
+### 🧠 Key Takeaways
 LSP ensures polymorphism works safely.
 
 Violations often happen when subclasses override methods improperly or don’t fully implement the interface.

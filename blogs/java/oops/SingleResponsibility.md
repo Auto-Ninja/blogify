@@ -7,7 +7,7 @@ The **Single Responsibility Principle** states:
 > "A class should have only one reason to change."
 
 This means each class should focus on a **single task or responsibility**. If a class handles multiple concerns, changes in one area may affect unrelated functionality, making the system harder to maintain.
----
+
 
 ## 🛒 Real-World Example: E-Commerce Notification System
 
