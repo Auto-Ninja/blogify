@@ -163,7 +163,6 @@ public class Main {
 - main() catches and handles it
 
 ### 🧠 Summary
-## 🧠 Java Exception Handling Concepts
 
 | Concept                | Key Point                                                                 |
 |------------------------|---------------------------------------------------------------------------|
