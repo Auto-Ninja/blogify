@@ -16,8 +16,6 @@ public int add(int a, int b) {
 ### 🎯 Return Types in Java Methods
 The return type defines what a method returns after execution.
 
-### 🔙 Java Method Return Types
-
 | Return Type  | Description                 | Example                          |
 |--------------|-----------------------------|----------------------------------|
 | `void`       | No return value             | `public void greet() { ... }`   |
