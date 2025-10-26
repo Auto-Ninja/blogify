@@ -12,6 +12,8 @@
     * [Strings](/blogs/java/basic/Strings.md)
     * [Exception Handling](/blogs/java/basic/ExceptionHandling.md)
     * [Collections](/blogs/java/basic/Collections.md)
+    * [FileHandling](/blogs/java/basic/FileHandling.md)
+    * [JDBC](/blogs/java/basic/JDBC.md)
   * [Object-Oriented Programming](/blogs/java/oops/oops.md)  
     * [Encapsulation](/blogs/java/oops/Encapsulation.md)
     * [Classes and Objects](/blogs/java/oops/ClassesAndObjects.md)
