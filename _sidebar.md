@@ -1,6 +1,5 @@
 * Java Tutorials
-  * Basic
-    * [Introduction to Java](/blogs/java/basic/Introduction.md)
+  * [Basic](/blogs/java/basic/Introduction.md)
     * [Variables and Data Types](/blogs/java/basic/VariablesAndDataTypes.md)
     * [Operators](/blogs/java/basic/Operators.md)
     * [Control Flow](/blogs/java/basic/ControlFlow.md)
@@ -30,10 +29,9 @@
 
    
 * Automation Tutorials
-  * Selenium
-    * [Introduction to Selenium](/blogs/auto/Selenium/Introduction.md)
+  * [Selenium](/blogs/auto/Selenium/Introduction.md)
     * [Selenium WebDriver](/blogs/auto/Selenium/WebDriver.md)
     * [Selenium RemoteWebDriver](/blogs/auto/Selenium/RemoteWebDriver.md)
     * [WebElement](/blogs/auto/Selenium/WebElement.md)
-    * [TimeOut and Waiting Strategies](/blogs/auto/Selenium/RemoteWebDriver.md)
-    * [Interaction and Action API ](/blogs/auto/Selenium/WebElement.md)
+    * [TimeOut and Waiting Strategies](/blogs/auto/Selenium/TimeOut.md)
+    * [Interaction and Action API ](/blogs/auto/Selenium/Interaction.md)

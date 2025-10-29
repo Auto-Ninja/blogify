@@ -5,17 +5,17 @@ Hi, I'm a Developer and SDET (Software Development Engineer in Test) passionate 
 
 🧠 Skills
 - Programming Languages: Python, Java, JavaScript, TypeScript
-- Frontend & Backend Development: React, Node.js, Django
-- Test Automation: Selenium, Playwright, Cypress
+- Frontend & Backend Development: React, Node.js
+- Test Automation: Selenium, Playwright
 - RPA & Process Automation: UIPath
 - Behavior-Driven Development (BDD): Cucumber, Behave
-- DevOps & CI/CD: Jenkins, GitHub Actions, Docker, Kubernetes
+- DevOps & CI/CD: Jenkins, GitHub Actions, Azure Devops
 - Editors & IDEs: VS Code, IntelliJ IDEA, PyCharm
 - Testing Tools: TestNG, JUnit, Postman, REST Assured
-- Cloud Awareness: AWS, Azure, Google Cloud Platform (GCP)
-- Monitoring & Reporting: Allure Reports, Grafana, Prometheus
-- Version Control: Git, Bitbucket
-- Agile & Collaboration: Jira, Confluence, Slack
+- Cloud Awareness: AWS, Azure
+- Monitoring & Reporting: Allure Reports, Extend Reports
+- Version Control: Git
+- Agile & Collaboration: Jira, Confluence
 
 🧠 What Drives Me
 I thrive on solving complex problems and learning new technologies. Whether it's building a sleek UI or optimizing backend performance, I enjoy every step of the development journey.
