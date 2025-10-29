@@ -29,7 +29,7 @@
 
    
 * Automation Tutorials
-  * [Selenium](/blogs/auto/Selenium/Introduction.md)
+  * [Selenium](/blogs/auto/selenium/Introduction.md)
     * [Selenium WebDriver](/blogs/auto/selenium/WebDriver.md)
     * [Selenium RemoteWebDriver](/blogs/auto/selenium/RemoteWebDriver.md)
     * [WebElement](/blogs/auto/selenium/WebElement.md)
