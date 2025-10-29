@@ -30,8 +30,8 @@
    
 * Automation Tutorials
   * [Selenium](/blogs/auto/Selenium/Introduction.md)
-    * [Selenium WebDriver](/blogs/auto/Selenium/WebDriver.md)
-    * [Selenium RemoteWebDriver](/blogs/auto/Selenium/RemoteWebDriver.md)
-    * [WebElement](/blogs/auto/Selenium/WebElement.md)
-    * [TimeOut and Waiting Strategies](/blogs/auto/Selenium/TimeOut.md)
-    * [Interaction and Action API ](/blogs/auto/Selenium/Interaction.md)
+    * [Selenium WebDriver](/blogs/auto/selenium/WebDriver.md)
+    * [Selenium RemoteWebDriver](/blogs/auto/selenium/RemoteWebDriver.md)
+    * [WebElement](/blogs/auto/selenium/WebElement.md)
+    * [TimeOut and Waiting Strategies](/blogs/auto/selenium/TimeOut.md)
+    * [Interaction and Action API ](/blogs/auto/selenium/Interaction.md)
