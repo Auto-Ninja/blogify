@@ -1,9 +1,7 @@
 * [Home](/)
+* Blogs
+  * [Java](/blogs/java/basic/Introduction.md) 
+  * [Object Oreinted Programming](/blogs/java/oops/oops.md)
+  * [Selenium](/blogs/auto/Selenium/Introduction.md)
 * [About](/profile/about.md)
 * [Contact](/profile/contact.md)
-* Blogs
-  * Java
-    * [Encapsulation](/blogs/java/oops/Encapsulation.md)
-* [Cover Page](/_coverpage.md)
-* [Navigation](_navbar.md)
-* [Sidebar](_sidebar.md)

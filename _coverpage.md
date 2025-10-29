@@ -9,7 +9,7 @@
 
 <!-- Animated Ad Section -->
 <div style="margin-top: 30px; font-size: 18px; animation: pulse 2s infinite;">
-  🔥 New Blog Series: <strong>“Mastering Selenium & Playwright”</strong>  
+  🔥 Blog Series: <strong>“Mastering Selenium & Playwright”</strong>  
   💡 Learn how to automate smarter with Java, Python, and C#  
 </div>
 

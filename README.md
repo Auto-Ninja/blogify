@@ -41,7 +41,7 @@ Explore tutorials, tips, and insights to build better software and automate smar
 <ul>
   <li><strong>CI/CD:</strong> Jenkins, GitHub Actions, Azure DevOps</li>
   <li><strong>Containers:</strong> Docker, Kubernetes</li>
-  <li><strong>Cloud:</strong> AWS, Azure, GCP</li>
+  <li><strong>Cloud:</strong> AWS, Azure</li>
   <li><strong>RPA:</strong> UIPath</li>
 </ul>
 <p>Automate workflows, streamline deployments, and integrate DevOps tools to accelerate development cycles.</p>

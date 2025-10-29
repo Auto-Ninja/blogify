@@ -1,6 +1,3 @@
-* Getting Started
-  * [Home](/)  
-
 * Java Tutorials
   * Basic
     * [Introduction to Java](/blogs/java/basic/Introduction.md)
@@ -13,7 +10,9 @@
     * [Exception Handling](/blogs/java/basic/ExceptionHandling.md)
     * [Collections](/blogs/java/basic/Collections.md)
     * [FileHandling](/blogs/java/basic/FileHandling.md)
+    * [DateTime](/blogs/java/basic/DateTime.md)
     * [JDBC](/blogs/java/basic/JDBC.md)
+    * [Generic](/blogs/java/basic/Generic.md)
   * [Object-Oriented Programming](/blogs/java/oops/oops.md)  
     * [Encapsulation](/blogs/java/oops/Encapsulation.md)
     * [Classes and Objects](/blogs/java/oops/ClassesAndObjects.md)
@@ -30,3 +29,11 @@
     * [Dependency Inversion](/blogs/java/oops/DependencyInversion.md)
 
    
+* Automation Tutorials
+  * Selenium
+    * [Introduction to Selenium](/blogs/auto/Selenium/Introduction.md)
+    * [Selenium WebDriver](/blogs/auto/Selenium/WebDriver.md)
+    * [Selenium RemoteWebDriver](/blogs/auto/Selenium/RemoteWebDriver.md)
+    * [WebElement](/blogs/auto/Selenium/WebElement.md)
+    * [TimeOut and Waiting Strategies](/blogs/auto/Selenium/RemoteWebDriver.md)
+    * [Interaction and Action API ](/blogs/auto/Selenium/WebElement.md)
