@@ -26,6 +26,9 @@
     * [Liskov Substitution](/blogs/java/oops/LiskovSubstitution.md)
     * [Interface Segregation](/blogs/java/oops/InterfaceSegregation.md)
     * [Dependency Inversion](/blogs/java/oops/DependencyInversion.md)
+  * [Design Patterns](/blogs/java/oops/DesignPatterns.md) 
+  * [Layered Architecture](/blogs/java/oops/LayeredArchitecture.md) 
+  
 
    
 * Automation Tutorials
