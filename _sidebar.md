@@ -19,15 +19,17 @@
     * [Inheritance](/blogs/java/oops/Inheritance.md)
     * [Polymorphism](/blogs/java/oops/Polymorphism.md)
     * [Abstraction](/blogs/java/oops/Abstraction.md)
-    * [Cohesion And Coupling](/blogs/java/oops/CohesionAndCoupling.md)    
+    * [Cohesion And Coupling](/blogs/java/oops/CohesionAndCoupling.md) 
+  * [Layered Architecture](/blogs/java/oops/LayeredArchitecture.md)      
+  * [Design Patterns](/blogs/java/oops/DesignPatterns.md)
+  * [Repository Pattern](/blogs/java/oops/RepositoryPattern.md)
   * [SOLID Principles](/blogs/java/oops/solid.md) 
     * [Single Responsibility](/blogs/java/oops/SingleResponsibility.md)
     * [Open-Closed](/blogs/java/oops/OpenClosed.md)
     * [Liskov Substitution](/blogs/java/oops/LiskovSubstitution.md)
     * [Interface Segregation](/blogs/java/oops/InterfaceSegregation.md)
     * [Dependency Inversion](/blogs/java/oops/DependencyInversion.md)
-  * [Design Patterns](/blogs/java/oops/DesignPatterns.md) 
-  * [Layered Architecture](/blogs/java/oops/LayeredArchitecture.md) 
+  
   
 
    

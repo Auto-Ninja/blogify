@@ -18,7 +18,7 @@ A thread is the smallest unit of execution in a Java program. It’s like a mini
 - Overhead: Too many threads can slow down performance.
 
 ### 🧩 Thread Features
- **Feature**         | **Description**                                      |
+| **Feature**         | **Description**                                      |
 |---------------------|------------------------------------------------------|
 | **Concurrency**     | Multiple threads run simultaneously                  |
 | **Shared memory**   | Threads share data and resources                     |
