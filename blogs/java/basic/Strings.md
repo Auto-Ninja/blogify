@@ -82,6 +82,8 @@ System.out.println(sb); // Output: Hello World
 ### 🔐 Immutable vs Mutable in Java
 Understanding the difference between immutable and mutable objects is key to writing efficient and predictable Java code — especially when working with strings.
 
+String creates new objects with each modification, leading to higher memory usage, while StringBuilder modifies the same object, making it more memory-efficient for repeated operations.
+
 #### 🧊 Immutable
 Definition: An object whose state cannot be changed after it is created.
 
