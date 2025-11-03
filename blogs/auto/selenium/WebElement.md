@@ -12,6 +12,7 @@ Example:
 ```java
 WebElement username = driver.findElement(By.name("username"));
 username.sendKeys("admin");
+```
 #### 3. getText()
 Purpose: Retrieves visible text from an element.
 Example:
