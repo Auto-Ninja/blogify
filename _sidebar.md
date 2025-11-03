@@ -41,5 +41,5 @@
     * [WebElement](/blogs/auto/selenium/WebElement.md)
     * [Actions](/blogs/auto/selenium/Actions.md)
     * [Browser Navigation](/blogs/auto/selenium/Navigation.md)
-    * [TimeOut and Waiting Strategies](/blogs/auto/selenium/TimeOut.md)
+    * [TimeOut and Waiting Strategies](/blogs/auto/selenium/wait.md)
     * [Interaction and Action API ](/blogs/auto/selenium/Interaction.md)
