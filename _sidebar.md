@@ -42,3 +42,5 @@
     * [Browser Navigation](/blogs/auto/selenium/Navigation.md)
     * [TimeOut and Waiting Strategies](/blogs/auto/selenium/wait.md)
     * [Interaction and Action API ](/blogs/auto/selenium/Actions.md)
+    * [Utility Classes ](/blogs/auto/selenium/UtilityClasses.md)
+  * [TestNG](/blogs/auto/testng/Introduction.md)
