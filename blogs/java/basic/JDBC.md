@@ -14,12 +14,15 @@ JDBC is part of Java SE and allows Java programs to:
 
 ### 🧩 JDBC Architecture & Components
 🔧 Key Components
-Component	Role
-DriverManager	Manages database drivers and connections
-Connection	Establishes a session with the database
-Statement	Executes SQL queries
-ResultSet	Holds data returned by queries
-PreparedStatement	Executes parameterized queries
+| Component         | Role                                      |
+|-------------------|-------------------------------------------|
+| DriverManager     | Manages database drivers and connections  |
+| Connection        | Establishes a session with the database   |
+| Statement         | Executes SQL queries                      |
+| ResultSet         | Holds data returned by queries            |
+| PreparedStatement | Executes parameterized queries            |
+
+
 ### 🏗️ Architecture Models
 ```plaintext
 Two-Tier Architecture:
