@@ -1,5 +1,6 @@
 * Java Tutorials
-  * [Basic](/blogs/java/basic/Introduction.md)
+  * Basic
+    * [Introduction](/blogs/java/basic/Introduction.md)
     * [Variables and Data Types](/blogs/java/basic/VariablesAndDataTypes.md)
     * [Operators](/blogs/java/basic/Operators.md)
     * [Control Flow](/blogs/java/basic/ControlFlow.md)
@@ -12,35 +13,36 @@
     * [DateTime](/blogs/java/basic/DateTime.md)
     * [JDBC](/blogs/java/basic/JDBC.md)
     * [Threads](/blogs/java/basic/Threads.md)
-  * [Object-Oriented Programming](/blogs/java/oops/oops.md)    
+  * Object-Oriented Programming
+    * [Overview](/blogs/java/oops/oops.md)
     * [Classes and Objects](/blogs/java/oops/ClassesAndObjects.md)
     * [Constructor](/blogs/java/oops/Constructors.md)
     * [Encapsulation](/blogs/java/oops/Encapsulation.md)
     * [Inheritance](/blogs/java/oops/Inheritance.md)
     * [Polymorphism](/blogs/java/oops/Polymorphism.md)
     * [Abstraction](/blogs/java/oops/Abstraction.md)
-    * [Cohesion And Coupling](/blogs/java/oops/CohesionAndCoupling.md) 
-  * [Layered Architecture](/blogs/java/oops/LayeredArchitecture.md)      
-  * [Design Patterns](/blogs/java/oops/DesignPatterns.md)
-  * [Repository Pattern](/blogs/java/oops/RepositoryPattern.md)
-  * [SOLID Principles](/blogs/java/oops/solid.md) 
+    * [Cohesion And Coupling](/blogs/java/oops/CohesionAndCoupling.md)
+  * Architecture & Patterns
+    * [Layered Architecture](/blogs/java/oops/LayeredArchitecture.md)
+    * [Design Patterns](/blogs/java/oops/DesignPatterns.md)
+    * [Repository Pattern](/blogs/java/oops/RepositoryPattern.md)
+  * SOLID Principles
+    * [Overview](/blogs/java/oops/solid.md)
     * [Single Responsibility](/blogs/java/oops/SingleResponsibility.md)
     * [Open-Closed](/blogs/java/oops/OpenClosed.md)
     * [Liskov Substitution](/blogs/java/oops/LiskovSubstitution.md)
     * [Interface Segregation](/blogs/java/oops/InterfaceSegregation.md)
     * [Dependency Inversion](/blogs/java/oops/DependencyInversion.md)
-  
-  
 
-   
 * Automation Tutorials
-  * [Selenium](/blogs/auto/selenium/Introduction.md)
+  * Selenium
+    * [Introduction](/blogs/auto/selenium/Introduction.md)
     * [Selenium WebDriver](/blogs/auto/selenium/WebDriver.md)
     * [Selenium RemoteWebDriver](/blogs/auto/selenium/RemoteWebDriver.md)
     * [Locators](/blogs/auto/selenium/locators.md)
     * [WebElement](/blogs/auto/selenium/WebElement.md)
     * [Browser Navigation](/blogs/auto/selenium/Navigation.md)
     * [TimeOut and Waiting Strategies](/blogs/auto/selenium/Wait.md)
-    * [Interaction and Action API ](/blogs/auto/selenium/Actions.md)
-    * [Utility Classes ](/blogs/auto/selenium/UtilityClasses.md)
+    * [Interaction and Action API](/blogs/auto/selenium/Actions.md)
+    * [Utility Classes](/blogs/auto/selenium/UtilityClasses.md)
   * [TestNG](/blogs/auto/TestNG/Introduction.md)
