@@ -13,7 +13,7 @@ JDBC is part of Java SE and allows Java programs to:
 - Integration: Enables Java apps to persist and retrieve data.
 
 ### 🧩 JDBC Architecture & Components
-🔧 Key Components
+#### 🔧 Key Components
 | Component         | Role                                      |
 |-------------------|-------------------------------------------|
 | DriverManager     | Manages database drivers and connections  |
