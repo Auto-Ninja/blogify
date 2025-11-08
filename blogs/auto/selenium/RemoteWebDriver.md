@@ -1,4 +1,5 @@
-### 🌐 What Is RemoteWebDriver?
+# Selenium RemoteWebDriver
+## 🌐 What Is RemoteWebDriver?
 RemoteWebDriver is a Selenium class that allows you to run browser automation on a remote machine or server. Instead of launching the browser locally, your test script sends commands over the network to a remote browser instance — typically managed by Selenium Grid, Docker, or a cloud testing platform.
 
 <div style="font-family: Arial, sans-serif; border: 1px solid #ccc; padding: 20px; max-width: 700px;">
@@ -35,7 +36,7 @@ RemoteWebDriver is a Selenium class that allows you to run browser automation on
   </div>
 </div>
 
-#### ✅ Why Use RemoteWebDriver?
+## ✅ Why Use RemoteWebDriver?
 | Reason                 | Benefit                                                                 |
 |------------------------|-------------------------------------------------------------------------|
 | Cross-platform testing | Run tests on Windows, macOS, Linux                                      |
@@ -72,7 +73,7 @@ public class RemoteTest {
     }
 }
 ```
-### 🏠 How to Run RemoteWebDriver from Your Local PC
+## 🏠 How to Run RemoteWebDriver from Your Local PC
 Step 1: Install Selenium Server (Standalone or Grid)
 ```Plantext
 Download from Selenium official site
@@ -94,8 +95,8 @@ Use RemoteWebDriver in your local test script and point it to the hub URL:
 URL hubUrl = new URL("http://localhost:4444/wd/hub");
 ```
 
-### RemoteWebDriver with Selenium Grid
-🛠️ Prerequisites
+## RemoteWebDriver with Selenium Grid
+### 🛠️ Prerequisites
 - Selenium Grid running at http://localhost:4444/wd/hub
 - Chrome browser installed on the node
 - ChromeDriver available on the node

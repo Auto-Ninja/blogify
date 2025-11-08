@@ -1,3 +1,5 @@
+# 🧭Selenium WebDriver
+
 ## 🧭 What Is Selenium WebDriver?
 Selenium WebDriver is a browser automation API that lets you write scripts in Java (or other supported languages) to control browsers like Chrome, Firefox, Edge, and Safari. It interacts directly with the browser using native automation protocols, ensuring fast and reliable execution.
 
@@ -43,12 +45,12 @@ public class Selenium4Example {
     }
 }
 ```
-✅ Demonstrates:
+### ✅ Demonstrates:
 - Relative locators
 - Element-level screenshot
 - W3C-compliant WebDriver
 
-### 🧩 Understanding System.setProperty("webdriver.chrome.driver", "...")
+## 🧩 Understanding System.setProperty("webdriver.chrome.driver", "...")
 This line sets a JVM system property to tell Selenium where to find the ChromeDriver executable:
 
 ```java
@@ -58,11 +60,12 @@ System.setProperty("webdriver.chrome.driver", "C:\\drivers\\chromedriver.exe");
 - Without it, Selenium throws: “The path to the driver executable must be set…”
 - Must match the installed Chrome version
 
-### 🖥️ How to Check ChromeDriver Version on Windows 11
-Locate ChromeDriver:
+## 🖥️ How to Check ChromeDriver Version on Windows 11
+
+### Locate ChromeDriver:
 - Manually downloaded: Check C:\Program Files, Downloads, or custom folders
 - Installed via Chocolatey: Run where chromedriver in Command Prompt
-Check Version:
+### Check Version:
 ```bash
 chromedriver --version
 ```
@@ -70,12 +73,12 @@ Example output:
 ```Code
 ChromeDriver 117.0.5938.92
 ```
-Match with Chrome Browser:
+### Match with Chrome Browser:
  - Open Chrome → chrome://version
  - Ensure major versions match (e.g., Chrome 117 → ChromeDriver 117)
 
-### 🔒 Restricting to a Specific Version
-Manual Control:
+## 🔒 Restricting to a Specific Version
+###  Manual Control:
 - Download and store a specific version from the ChromeDriver site
 
 ### WebDriverManager (Java):
@@ -85,19 +88,20 @@ WebDriverManager.chromedriver().driverVersion("117.0.5938.92").setup();
 - Automatically downloads and sets the correct version
 - Prevents mismatches and manual updates
 
-### 📦 Does ChromeDriver Download Every Time?
+## 📦 Does ChromeDriver Download Every Time?
 - Manual setup: No, uses local binary unless path changes
 - WebDriverManager: Downloads once and caches unless:
 - - Version changes
 - - Cache is cleared
 - - You force an update
 
-### 🧠 Interview Insights: Hidden Details
+## 🧠 Interview Insights: Hidden Details
 - System.setProperty is Java-specific; other languages use different mechanisms
 - ChromeDriver must be executable and match OS architecture (32-bit vs 64-bit)
 - Use ChromeOptions to set capabilities like headless mode or incognito
 
-### 🧪 WebDriver vs WebElement
+## 🧪 WebDriver vs WebElement
+
 ### 🔹 WebDriver
 Controls the browser.
 
@@ -132,32 +136,33 @@ searchBox.submit();
 driver.quit();
 ```
 
-### 🧱 WebDriver Architecture
+## 🧱 WebDriver Architecture
+
 Selenium WebDriver follows a client-server architecture:
 - Client: Your test script written in Java, Python, etc.
 - WebDriver API: Sends commands from your script to the browser.
 - Browser Driver: A bridge between Selenium and the browser (e.g., ChromeDriver for Chrome).
 - Browser: Executes the commands (like clicking buttons or entering text).
 
-How It Works:
+### How It Works:
 - You write a test script.
 - Selenium sends commands to the browser driver.
 - The driver translates them into browser-native actions.
 - The browser performs those actions and sends results back.
 
-### 🚦 Starting and Stopping a Session
-Start: Create a WebDriver object:
+## 🚦 Starting and Stopping a Session
+### Start: Create a WebDriver object:
 
 ```java
 WebDriver driver = new ChromeDriver();
 ```
 This opens a new browser window and starts a session.
 
-Stop: Close the browser and end the session:
+### Stop: Close the browser and end the session:
 ```java
 driver.quit();
 ```
-### 🌐 Loading Different Browsers
+## 🌐 Loading Different Browsers
 Selenium supports multiple browsers. You need the correct driver for each:
 - Chrome → ChromeDriver
 - Firefox → GeckoDriver
@@ -171,7 +176,7 @@ WebDriver firefox = new FirefoxDriver();
 WebDriver edge = new EdgeDriver();
 ```
 
-### 🍪 What Are Cookies?
+## 🍪 What Are Cookies?
 Cookies are small pieces of data stored by the browser to remember:
 - Login sessions
 - User preferences
@@ -188,7 +193,7 @@ driver.manage().deleteCookieNamed("user");
 - Test personalization
 - Maintain session state
 
-### 🎛️ Browser Options
+## 🎛️ Browser Options
 ``` java
 ChromeOptions options = new ChromeOptions();
 options.addArguments("--headless", "--incognito");
@@ -199,7 +204,7 @@ Common options:
 - --incognito: Private mode
 - --disable-extensions: Disable plugins
 
-### 📄 What Is Page Load?
+## 📄 What Is Page Load?
 Page load refers to the process of a browser retrieving and rendering a web page. This includes:
 - Downloading HTML, CSS, JavaScript
 - Rendering the DOM (Document Object Model)
@@ -208,10 +213,10 @@ Page load refers to the process of a browser retrieving and rendering a web page
 
 In Selenium, page load matters because your script needs to interact with elements after they’re available. If Selenium tries to click a button before the page finishes loading, it may throw an error like ElementNotInteractableException.
 
-### 🎛️ Why Are There Different pageLoadStrategy Options?
+## 🎛️ Why Are There Different pageLoadStrategy Options?
 Selenium 4 introduced the pageLoadStrategy setting to give developers control over how long Selenium waits for a page to load. This is useful for optimizing test speed and reliability.
 
-#### Available Strategies:
+### Available Strategies:
 | Strategy | Behavior                                                   |
 |----------|------------------------------------------------------------|
 | normal   | Waits for the entire page to load (default)               |
@@ -219,7 +224,7 @@ Selenium 4 introduced the pageLoadStrategy setting to give developers control ov
 | none     | Doesn’t wait at all — proceeds immediately                |
 
 
-#### ✅ When to Use Each Strategy
+### ✅ When to Use Each Strategy
 | Strategy | Use Case                                                                                   |
 |----------|---------------------------------------------------------------------------------------------|
 | normal   | Full page validation, visual testing, or when interacting with late-loading elements       |
@@ -233,7 +238,7 @@ ChromeOptions options = new ChromeOptions();
 options.setPageLoadStrategy(PageLoadStrategy.EAGER);
 WebDriver driver = new ChromeDriver(options);
 ```
-### 🕵️ What Is a Proxy?
+## 🕵️ What Is a Proxy?
 A proxy routes traffic through an intermediary server.
 
 ```java

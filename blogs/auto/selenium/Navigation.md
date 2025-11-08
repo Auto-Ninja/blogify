@@ -1,5 +1,7 @@
 # 🌐 Browser Navigation 
-#### 1. get(String url)
+Browser navigation is a fundamental aspect of web automation using Selenium WebDriver. It allows you to control the browser's history and load different web pages programmatically.
+## 🚀 Key Navigation Methods
+### 1. get(String url)
 Purpose: Opens a web page.
 Behavior: Waits until the page is fully loaded.
 
@@ -8,7 +10,7 @@ Example:
 WebDriver driver = new ChromeDriver();
 driver.get("https://www.example.com");
 ```
-#### 2. navigate().to(String url)
+### 2. navigate().to(String url)
 Purpose: Similar to get(), but part of the navigate() interface.
 Behavior: Allows chaining with other navigation methods.
 
@@ -16,28 +18,28 @@ Example:
 ```java
 driver.navigate().to("https://www.google.com");
 ```
-#### 3. navigate().back()
+### 3. navigate().back()
 Purpose: Simulates clicking the browser's back button.
 
 Example:
 ```java
 driver.navigate().back();
 ```
-#### 4. navigate().forward()
+### 4. navigate().forward()
 Purpose: Simulates clicking the browser's forward button.
 
 Example:
 ```java
 driver.navigate().forward();
 ```
-#### 5. navigate().refresh()
+### 5. navigate().refresh()
 Purpose: Reloads the current page.
 
 Example:
 ```java
 driver.navigate().refresh();
 ```
-### 🧪 Full Example: Java 17 + Selenium 4.X
+## 🧪 Full Example: Java 17 + Selenium 4.X
 ```java
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -66,13 +68,13 @@ public class BrowserNavigationDemo {
     }
 }
 ```
-### 🧠 Key Differences: get() vs navigate().to()
+## 🧠 Key Differences: get() vs navigate().to()
 | Feature                     | `get()`     | `navigate().to()` |
 |----------------------------|-------------|-------------------|
 | Waits for page load        | ✅ Yes      | ✅ Yes            |
 | Part of Navigation interface | ❌ No      | ✅ Yes            |
 | Supports chaining          | ❌ No        | ✅ Yes            |
-### ⚠️ Common Challenges
+## ⚠️ Common Challenges
 | Issue                          | Solution                                         |
 |--------------------------------|--------------------------------------------------|
 | Page not loading               | Use `WebDriverWait` for dynamic content          |

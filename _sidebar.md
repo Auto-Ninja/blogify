@@ -37,6 +37,7 @@
 * Automation Tutorials
   * Selenium
     * [Introduction](/blogs/auto/selenium/Introduction.md)
+    * [Core Terminologies](/blogs/auto/selenium/CoreTerminologies.md)
     * [Selenium WebDriver](/blogs/auto/selenium/WebDriver.md)
     * [Selenium RemoteWebDriver](/blogs/auto/selenium/RemoteWebDriver.md)
     * [Locators](/blogs/auto/selenium/locators.md)
@@ -46,3 +47,6 @@
     * [Interaction and Action API](/blogs/auto/selenium/Actions.md)
     * [Utility Classes](/blogs/auto/selenium/UtilityClasses.md)
   * [TestNG](/blogs/auto/TestNG/Introduction.md)
+  * Page Object Model (POM)
+      * [Introduction](/blogs/auto/POM/Introduction.md)
+      * [Logging and Tracing](/blogs/auto/POM/LoggingandTracing.md)

@@ -1,8 +1,10 @@
-# 🧰 What Are Utility Classes in Web Automation?
+# Utility Classes in Selenium Web Automation
+
+## 🧰 What Are Utility Classes in Web Automation?
 Utility classes are small, focused helpers designed to streamline repetitive or complex operations in automated testing frameworks like Selenium, Playwright, or Cypress. They promote code reuse, readability, and maintainability.
 
-### ⚙️ Common Categories of Utility Classes
-#### 1. Wait Utilities
+## ⚙️ Common Categories of Utility Classes
+### 1. Wait Utilities
 Used to handle dynamic content and synchronization issues.
 
 ```java
@@ -14,7 +16,7 @@ public class WaitUtils {
 }
 ```
 
-#### 2. Browser Utilities
+### 2. Browser Utilities
 Manage browser setup, teardown, and configuration.
 
 ```java
@@ -28,7 +30,7 @@ public class BrowserUtils {
     }
 }
 ```
-#### 3. Element Interaction Utilities
+### 3. Element Interaction Utilities
 Abstract common actions like clicking, typing, or selecting.
 
 ```java
@@ -42,7 +44,7 @@ public class ElementUtils {
     }
 }
 ```
-#### 4. Assertion Utilities
+### 4. Assertion Utilities
 Simplify validation logic for test outcomes.
 
 ```java
@@ -52,7 +54,7 @@ public class AssertUtils {
     }
 }
 ```
-#### 5. File and Data Utilities
+### 5. File and Data Utilities
 Handle file uploads, downloads, or data parsing (e.g., CSV, JSON).
 
 ```java
@@ -63,11 +65,11 @@ public class FileUtils {
     }
 }
 ```
-### 🧪 Benefits of Using Utility Classes
+## 🧪 Benefits of Using Utility Classes
 - Modularity: Breaks down automation logic into reusable chunks.
 - Maintainability: Centralized updates to logic (e.g., wait strategy).
 - Readability: Cleaner test scripts with less boilerplate.
 - Scalability: Easier to extend for new test cases or frameworks.
 
-### 🧠 Pro Tip
+## 🧠 Pro Tip
 When building your automation framework, organize utility classes by function (e.g., WaitUtils, BrowserUtils, ElementUtils) and avoid mixing unrelated logic. This keeps your codebase clean and intuitive.
