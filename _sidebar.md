@@ -48,5 +48,5 @@
     * [Utility Classes](/blogs/auto/selenium/UtilityClasses.md)
   * [TestNG](/blogs/auto/TestNG/Introduction.md)
   * Page Object Model (POM)
-      * [Introduction](/blogs/auto/pageobjectmodel/Introduction.md)
-      * [Logging and Tracing](/blogs/auto/pageobjectmodel/LoggingandTracing.md)
+      * [Introduction](/blogs/auto/pom/Introduction.md)
+      * [Logging and Tracing](/blogs/auto/pom/LoggingandTracing.md)
