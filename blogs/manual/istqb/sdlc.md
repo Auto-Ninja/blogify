@@ -9,7 +9,6 @@ Sequential phases — each must finish before the next begins.
 [Requirements] → [Design] → [Implementation] → [Testing] → [Deployment]
 ```
 Example:
-
 <br/><b>Requirements:</b> Define features like login, browse restaurants, place order.
 <br/><b>Design:</b> Create UI and backend architecture.
 <br/><b>Implementation:</b> Developers build the app.
@@ -37,7 +36,6 @@ Requirements → System Design → Architecture → Module Design → Coding
 Acceptance ← System ← Integration ← Unit Testing
 ```
 Example:
-
 <br/><b>Acceptance tests</b> are written during requirements.
 <br/><b>System tests</b> are designed during system design.
 <br/><b>Integration tests</b> align with architecture.
