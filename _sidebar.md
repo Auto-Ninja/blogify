@@ -50,3 +50,9 @@
   * Page Object Model (POM)
       * [Introduction](/blogs/auto/pom/Introduction.md)
       * [Logging and Tracing](/blogs/auto/pom/LoggingandTracing.md)
+
+* Certification
+  * ISTQB
+    * [Introduction](/blogs/manual/istqb/Introduction.md)
+    * [Fundamentals of Testing](/blogs/manual/istqb/FundamentalsofTesting.md)
+    * [Software Development Lifecycle](/blogs/manual/istqb/sdlc.md)
