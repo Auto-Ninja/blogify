@@ -45,14 +45,65 @@ Q: What is validation in software testing?
 | 6. Testing is context dependent   | A medical app needs stricter testing than a game.                                   | Testing approach varies by domain.                  |
 | 7. Absence-of-errors fallacy      | A bug-free app that doesn’t meet user needs still fails.                            | Quality ≠ just defect-free code.                    |
 
-### Sample Question:
 
+#### 🧪 Pesticide Paradox
+##### 🔹 What Is It?
+The Pesticide Paradox refers to the idea that repeating the same set of tests over and over will eventually stop finding new defects. Just like pests become immune to the same pesticide, software can “hide” bugs from repetitive test cases.
+
+##### 🔍 Why It Matters
+- If you always test the same paths, you’ll miss bugs in untested areas.
+- Stagnant test cases lead to false confidence in software quality.
+- To stay effective, tests must be reviewed and updated regularly.
+
+##### 🍔 Real-World Example: Food Delivery App
+Imagine you're testing a food delivery app:
+- You always test placing an order from a single restaurant with cash payment.
+- Over time, those tests pass consistently — but you never test:
+    - Ordering from multiple restaurants
+    - Using promo codes
+    - Paying with a digital wallet
+    - Scheduling future deliveries
+<br/>
+<b>Result:</b> Bugs in these untested scenarios go unnoticed.
+<br/>
+<b>Solution:</b> Update your test cases to include new combinations and edge cases.
+
+### Sample Question:
 Q: What does the “pesticide paradox” refer to in software testing? 
 <br/>A. Using outdated tools 
 <br/>B. Running the same tests won’t find new bugs 
 <br/>C. Ignoring minor defects 
 <br/>D. Testing only critical paths 
 <br/>✅ Correct Answer: B
+
+#### 📊 What Is the Pareto Principle?
+<br/>Definition: The Pareto Principle states that 80% of problems are caused by 20% of the causes.
+<br/>
+In software testing, this means:
+<br/> <b> “80% of defects are found in 20% of the modules.”</b>
+
+#### 🍔 Real-World Example: Food Delivery App
+Imagine you're testing a food delivery app. You notice:
+- Most bugs occur in the checkout and payment modules.
+- Other areas like restaurant browsing or user profile have very few issues.
+<br/>
+This reflects the Pareto Principle:
+- Focus testing efforts on the modules where defects are concentrated.
+- Use risk-based testing to prioritize high-defect areas.
+
+#### 🧠 Why It Matters in Testing
+- Helps testers prioritize where to focus their efforts.
+- Supports efficient resource allocation.
+- Encourages defect clustering analysis.
+
+#### ✅ Sample Question
+Q: What does the Pareto Principle suggest in software testing? 
+<br>A. All modules have equal defect probability 
+<br>B. Most defects are found in a small number of modules 
+<br>C. Testing should be evenly distributed 
+<br>D. Bugs are randomly distributed 
+<br>✅ Correct Answer: B
+
 
 ## 🔹 1.4 Psychology of Testing
 <b>Core Idea:</b> Testing requires collaboration, clear communication, and a non-blaming culture.
