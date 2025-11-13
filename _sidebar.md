@@ -51,8 +51,7 @@
       * [Introduction](/blogs/auto/pom/Introduction.md)
       * [Logging and Tracing](/blogs/auto/pom/LoggingandTracing.md)
 
-* Exam Prep
-  * Software Testing Foundations
+ * Software Testing Foundations
     * [Introduction](/blogs/manual/istqb/Introduction.md)
     * [Fundamentals of Testing](/blogs/manual/istqb/FundamentalsofTesting.md)
     * [Software Development Lifecycle](/blogs/manual/istqb/sdlc.md)
@@ -60,4 +59,10 @@
     * [Test Techniques](/blogs/manual/istqb/TestTechniques.md)
     * [Test Activities](/blogs/manual/istqb/testact.md)
     * [Test Tools](/blogs/manual/istqb/TestTools.md)
-  * [Automation vs Manual](/blogs/manual/compare.md)
+    * [Automation vs Manual](/blogs/manual/compare.md)
+
+* Application programming interface
+    * [Introduction](/blogs/api/Introduction.md)
+    * [Request and Response](/blogs/api/RequestResponse.md)
+    * [API Styles](/blogs/api/styles.md)
+    * [API Testing](/blogs/api/tools.md)
