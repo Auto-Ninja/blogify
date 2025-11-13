@@ -58,5 +58,5 @@
     * [Software Development Lifecycle](/blogs/manual/istqb/sdlc.md)
     * [Static Testing](/blogs/manual/istqb/statictesting.md)
     * [Test Techniques](/blogs/manual/istqb/TestTechniques.md)
-
-    
+    * [Test Activities](/blogs/manual/istqb/testact.md)
+    * [Test Tools](/blogs/manual/istqb/TestTools.md)
