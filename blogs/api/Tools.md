@@ -1,4 +1,4 @@
-<h1>🧪 How to Test an API</h1>
+# 🧪 How to Test an API
 
 <p>Testing an API involves checking whether it behaves as expected. You typically:</p>
 <ul>
@@ -20,7 +20,7 @@
   </li>
 </ul>
 
-<h2>🛠️ Common Tools for API Testing</h2>
+## 🛠️ Common Tools for API Testing
 
 <table>
   <thead>
@@ -40,7 +40,7 @@
   </tbody>
 </table>
 
-<h2>📘 What Is Swagger and Why Is It Used?</h2>
+## 📘 What Is Swagger and Why Is It Used?
 
 <p>Swagger is a set of tools built around the OpenAPI Specification. It helps developers:</p>
 <ul>
@@ -52,7 +52,7 @@
 
 <p>Swagger uses a YAML or JSON file to describe the API — including endpoints, parameters, responses, and authentication.</p>
 
-<h3>🧾 Example Swagger Snippet</h3>
+### 🧾 Example Swagger Snippet
 
 <pre><code class="yaml">
 paths:
@@ -66,7 +66,7 @@ paths:
 
 <p>This makes it easy for developers and testers to understand and interact with the API.</p>
 
-<h2>📖 What Is OpenAPI Specification?</h2>
+## 📖 What Is OpenAPI Specification?
 
 <p>The <strong>OpenAPI Specification (OAS)</strong> is a standardized format for describing RESTful APIs. It defines how APIs behave and what they offer — including:</p>
 <ul>
@@ -85,7 +85,7 @@ paths:
   <li>Supports mock servers and client generation</li>
 </ul>
 
-<h2>🔍 Swagger vs Postman — Key Differences</h2>
+## 🔍 Swagger vs Postman — Key Differences
 
 <table>
   <thead>
@@ -107,7 +107,7 @@ paths:
 
 <p><strong>Summary:</strong> Swagger is ideal for API creators, while Postman is great for API consumers and testers.</p>
 
-<h2>🔍 Normal API vs RESTful API</h2>
+##🔍 Normal API vs RESTful API
 
 <p><strong>Normal API:</strong><br>
 A normal API (Application Programming Interface) is a general term for any interface that allows two systems to communicate. It can follow any protocol or structure — including SOAP, RPC, GraphQL, or custom formats. These APIs may use XML, binary formats, or proprietary messaging systems.</p>
@@ -115,7 +115,7 @@ A normal API (Application Programming Interface) is a general term for any inter
 <p><strong>RESTful API:</strong><br>
 A RESTful API is a specific type of API that follows the principles of REST (Representational State Transfer). It uses standard HTTP methods like GET, POST, PUT, DELETE and communicates using stateless requests and structured URLs. RESTful APIs typically return data in JSON or XML format.</p>
 
-<h3>🧠 Key Differences</h3>
+### 🧠 Key Differences 
 
 <table>
   <thead>

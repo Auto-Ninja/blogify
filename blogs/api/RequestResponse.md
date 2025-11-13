@@ -1,6 +1,6 @@
-<h1>Request and Response</h1>
+# Request and Response
 
-<h2>🧾 1. What Is a Request?</h2>
+## 🧾 1. What Is a Request?
 
 <p><strong>🟢 Beginner View:</strong><br>
 A request is like asking a question.<br>
@@ -10,7 +10,7 @@ You (or your app) send this question to a service (like a weather API), and wait
 <p><strong>🧠 Advanced View:</strong><br>
 An API request is an HTTP message sent from a client to a server. It includes:</p>
 
-<h3>🔧 API Request Structure</h3>
+### 🔧 API Request Structure
 
 <table>
   <thead>
@@ -43,7 +43,7 @@ An API request is an HTTP message sent from a client to a server. It includes:</
   </tbody>
 </table>
 
-<h3>📦 Example Request (HTTP)</h3>
+### 📦 Example Request (HTTP)
 
 <pre><code class="http">
 GET /weather?city=London&unit=celsius HTTP/1.1
@@ -52,7 +52,7 @@ Authorization: Bearer abc123
 Content-Type: application/json
 </code></pre>
 
-<h2>🌐 What Is an HTTP Message?</h2>
+## 🌐 What Is an HTTP Message?
 
 <p>An HTTP message is like a digital letter sent between your browser (or app) and a server. There are two types:</p>
 <ul>
@@ -60,7 +60,7 @@ Content-Type: application/json
   <li><strong>Response:</strong> Sent back from the server with the result (like the webpage or data you asked for).</li>
 </ul>
 
-<h3>🧾 HTTP Request Breakdown</h3>
+### 🧾 HTTP Request Breakdown
 
 <pre><code class="http">
 GET /weather?city=London HTTP/1.1
@@ -69,7 +69,7 @@ Content-Type: application/json
 Authorization: Bearer abc123
 </code></pre>
 
-<h4>1. HTTP Verb (Method)</h4>
+#### 1. HTTP Verb (Method)
 
 <table>
   <thead>
@@ -105,7 +105,7 @@ Authorization: Bearer abc123
 
 <p><strong>🧠 Beginner Tip:</strong> Think of these like actions — “Get this,” “Post this,” “Update this,” “Delete this.”</p>
 
-<h4>2. URL + Query Parameters</h4>
+#### 2. URL + Query Parameters
 
 <pre><code class="http">
 GET /weather?city=London&unit=celsius
@@ -119,7 +119,7 @@ GET /weather?city=London&unit=celsius
 
 <p><strong>🧠 Beginner Tip:</strong> It’s like filling out a form in the URL.</p>
 
-<h4>3. Headers</h4>
+#### 3. Headers
 
 <table>
   <thead>
@@ -148,7 +148,7 @@ GET /weather?city=London&unit=celsius
   </tbody>
 </table>
 
-<h4>4. Body (Optional)</h4>
+#### 4. Body (Optional)
 
 <pre><code class="json">
 {
@@ -161,7 +161,7 @@ GET /weather?city=London&unit=celsius
 
 <hr/>
 
-<h2>📩 2. What Is a Response?</h2>
+## 📩 2. What Is a Response?
 
 <p><strong>🟢 Beginner View:</strong><br>
 A response is the answer you get back.</p>
@@ -195,7 +195,7 @@ An API response is an HTTP message from the server to the client. It includes:</
   </tbody>
 </table>
 
-<h3>📩 HTTP Response Structure</h3>
+### 📩 HTTP Response Structure
 
 <pre><code class="http">
 HTTP/1.1 200 OK
@@ -208,7 +208,7 @@ Content-Type: application/json
 }
 </code></pre>
 
-<h4>1. Status Code</h4>
+#### 1. Status Code
 
 <table>
   <thead>
@@ -230,7 +230,7 @@ Content-Type: application/json
 
 <p><strong>🧠 Beginner Tip:</strong> If it starts with 2, it’s good. If it starts with 4 or 5, something went wrong.</p>
 
-<h4>2. Headers (Again)</h4>
+#### 2. Headers (Again)
 
 <pre><code class="http">
 Content-Type: application/json
@@ -249,7 +249,7 @@ Cache-Control: no-cache
 }
 </code></pre>
 
-<h3>🔁 Request–Response Lifecycle Diagram</h3>
+### 🔁 Request–Response Lifecycle Diagram</h3>
 
 <pre><code class="plaintext">
 +--------+       Request        +--------+       Response       +--------+

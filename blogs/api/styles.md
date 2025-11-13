@@ -1,8 +1,8 @@
-<h1>🌐 What Is an API Style?</h1>
+# 🌐 What Is an API Style?
 
 <p>An API style defines how systems communicate — the rules, format, and structure of requests and responses. Different styles suit different needs, from strict enterprise systems to flexible mobile apps.</p>
 
-<h2>🧩 Overview of API Styles</h2>
+## 🧩 Overview of API Styles
 
 <table>
   <thead>
@@ -41,12 +41,12 @@
   </tbody>
 </table>
 
-<h2>🧠 REST (Representational State Transfer)</h2>
+## 🧠 REST (Representational State Transfer)
 
 <p><strong>🔹 What It Is:</strong><br>
 REST is the most popular API style. It treats everything as a resource (like users, products, orders) and uses standard HTTP methods.</p>
 
-<h3>🔧 Example REST Endpoints</h3>
+### 🔧 Example REST Endpoints
 
 <pre><code class="http">
 GET /users           → Get all users
@@ -63,13 +63,12 @@ DELETE /users/123    → Delete user 123
   <li>Public APIs (e.g., Twitter, GitHub)</li>
 </ul>
 
-<h2>🧼 SOAP (Simple Object Access Protocol)</h2>
+## 🧼 SOAP (Simple Object Access Protocol)
 
 <p><strong>🔹 What It Is:</strong><br>
 SOAP is a protocol that uses XML for messaging. It’s strict, standardized, and supports advanced features like security and transactions.</p>
 
-<h3>🔧 Example SOAP Request</h3>
-
+### 🔧 Example SOAP Request
 
 ```xml
 <soap:Envelope>
@@ -88,12 +87,12 @@ SOAP is a protocol that uses XML for messaging. It’s strict, standardized, and
   <li>When formal contracts and security are critical</li>
 </ul>
 
-<h2>🔁 RPC (Remote Procedure Call)</h2>
+## 🔁 RPC (Remote Procedure Call)
 
 <p><strong>🔹 What It Is:</strong><br>
 RPC lets you call functions on a remote server as if they were local. It’s simple and fast, often used internally.</p>
 
-<h3>🔧 Example RPC Call</h3>
+### 🔧 Example RPC Call
 
 ```json
 {
@@ -109,12 +108,12 @@ RPC lets you call functions on a remote server as if they were local. It’s sim
   <li>Lightweight communication</li>
 </ul>
 
-<h2>🔍 GraphQL (Graph Query Language)</h2>
+## 🔍 GraphQL (Graph Query Language)
 
 <p><strong>🔹 What It Is:</strong><br>
 GraphQL lets clients ask for exactly the data they need. It uses a single endpoint and supports nested queries.</p>
 
-<h3>🔧 Example GraphQL Query</h3>
+### 🔧 Example GraphQL Query
 
 ```graphql
 {
@@ -136,7 +135,7 @@ GraphQL lets clients ask for exactly the data they need. It uses a single endpoi
   <li>Real-time data needs</li>
 </ul>
 
-<h2>📊 Comparison Table</h2>
+## 📊 Comparison Table
 
 <table>
   <thead>
