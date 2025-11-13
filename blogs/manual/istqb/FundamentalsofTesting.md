@@ -2,9 +2,7 @@
 
 ## 🔹 1.1 Why Testing Is Necessary
 <b>Core Idea:</b> Testing helps identify defects, reduce risk, and ensure software meets user needs.
-
 <b> Real-World Example:</b> A mobile banking app allows users to transfer money. Without testing, a bug might allow double transfers or incorrect balances — leading to financial loss and reputational damage.
-
 <b> Exam Hint:</b> Know the goals of testing — not to prove software is perfect, but to reduce risk and find defects.
 
 ### Sample Question:

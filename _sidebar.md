@@ -56,3 +56,7 @@
     * [Introduction](/blogs/manual/istqb/Introduction.md)
     * [Fundamentals of Testing](/blogs/manual/istqb/FundamentalsofTesting.md)
     * [Software Development Lifecycle](/blogs/manual/istqb/sdlc.md)
+    * [Static Testing](/blogs/manual/istqb/statictesting.md)
+    * [Test Techniques](/blogs/manual/istqb/TestTechniques.md)
+
+    
