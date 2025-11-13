@@ -1,4 +1,4 @@
-# 🛠️ Chapter 6: Test Tools
+# 🛠️ Test Tools
 ## Purpose
 This chapter introduces the role of tools in software testing and how they support various testing activities.
 

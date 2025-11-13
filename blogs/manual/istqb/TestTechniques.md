@@ -1,4 +1,4 @@
-# 📘 Chapter 4: Test Techniques
+# 📘 Test Techniques
 Test techniques are structured methods used to design test cases. They help testers:
 - Maximize coverage
 - Reduce effort

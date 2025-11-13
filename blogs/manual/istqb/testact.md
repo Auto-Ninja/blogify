@@ -1,4 +1,4 @@
-# 📘 Chapter 5: Managing Test Activities
+# 📘 Managing Test Activities
 ## 🧭 Overview of Key Activities
 ```Code
 Managing Test Activities

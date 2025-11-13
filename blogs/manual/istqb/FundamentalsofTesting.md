@@ -1,4 +1,4 @@
-# 📘 Chapter 1: Fundamentals of Testing
+# 📘 Fundamentals of Testing
 
 ## 🔹 1.1 Why Testing Is Necessary
 <b>Core Idea:</b> Testing helps identify defects, reduce risk, and ensure software meets user needs.

@@ -1,4 +1,4 @@
-# 📘 Chapter 2: Testing Throughout the Software Development Lifecycle
+# 📘 Testing Throughout the Software Development Lifecycle
 ## 🔹 2.1 Software Development Lifecycle Models
 Testing activities vary depending on the development model used. Let’s explore the three most common models with a real-world example: building a food delivery app.
 

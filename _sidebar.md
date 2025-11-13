@@ -53,12 +53,12 @@
 
  * Software Testing Foundations
     * [Introduction](/blogs/manual/istqb/Introduction.md)
-    * [Fundamentals of Testing](/blogs/manual/istqb/FundamentalsofTesting.md)
-    * [Software Development Lifecycle](/blogs/manual/istqb/sdlc.md)
-    * [Static Testing](/blogs/manual/istqb/statictesting.md)
-    * [Test Techniques](/blogs/manual/istqb/TestTechniques.md)
-    * [Test Activities](/blogs/manual/istqb/testact.md)
-    * [Test Tools](/blogs/manual/istqb/TestTools.md)
+    * [Fundamentals of Software Testing](/blogs/manual/istqb/FundamentalsofTesting.md)
+    * [Testing Across the Software Development Lifecycle](/blogs/manual/istqb/sdlc.md)
+    * [Static Testing Techniques](/blogs/manual/istqb/statictesting.md)
+    * [Test Design Techniques](/blogs/manual/istqb/TestTechniques.md)
+    * [Managing the Testing Process](/blogs/manual/istqb/testact.md)
+    * [Leveraging Tools for Testing](/blogs/manual/istqb/TestTools.md)
     * [Automation vs Manual](/blogs/manual/compare.md)
 
 * Application programming interface

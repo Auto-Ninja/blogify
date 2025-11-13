@@ -1,4 +1,4 @@
-# 📘 Chapter 3: Static Testing 
+# 📘 Static Testing 
 Static testing means checking software without running it. Instead of executing code, you review documents, designs, or even the code itself to find mistakes early.
 
 ## 🧠 Why Use Static Testing?
