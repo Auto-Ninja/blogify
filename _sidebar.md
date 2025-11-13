@@ -51,8 +51,8 @@
       * [Introduction](/blogs/auto/pom/Introduction.md)
       * [Logging and Tracing](/blogs/auto/pom/LoggingandTracing.md)
 
-* Certification
-  * ISTQB
+* Exam Prep
+  * Software Testing Foundations
     * [Introduction](/blogs/manual/istqb/Introduction.md)
     * [Fundamentals of Testing](/blogs/manual/istqb/FundamentalsofTesting.md)
     * [Software Development Lifecycle](/blogs/manual/istqb/sdlc.md)
