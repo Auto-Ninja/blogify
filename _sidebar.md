@@ -66,4 +66,4 @@
     * [Request and Response](/blogs/api/RequestResponse.md)
     * [Authentication & Authorization](/blogs/api/auth.md)
     * [API Styles](/blogs/api/styles.md)
-    * [API Testing](/blogs/api/tools.md)
+    * [API Testing](/blogs/api/Tools.md)
